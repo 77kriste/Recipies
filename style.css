@@ -1,0 +1,40 @@
+
+.addForm{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.addBox{
+    flex-direction: column;
+    margin: 20px;
+    border: black solid 1px;
+}
+input{
+    margin: 20px;
+}
+button{
+    margin: 20px;
+}
+.addIngredients{
+    width: 270px;
+}
+.preview{
+    margin-top: 30px;
+}
+.pre{
+    text-align: center;
+}
+.previewBox{
+    border: black solid 1px;
+    margin: 20px;
+    flex-direction: column;
+}
+.productPhoto{
+    border: black solid 1px;
+    width: 250px;
+    height: 250px;
+    margin-left: 160px;
+}
+.title{
+    text-align: center;
+}
